@@ -1,0 +1,14 @@
+C:\Users\karl\Desktop\Gestion ecole\GestEcoleWpf\GestEcoleWpf\bin\Debug\GestEcoleWpf.exe.config
+C:\Users\karl\Desktop\Gestion ecole\GestEcoleWpf\GestEcoleWpf\bin\Debug\GestEcoleWpf.exe
+C:\Users\karl\Desktop\Gestion ecole\GestEcoleWpf\GestEcoleWpf\bin\Debug\GestEcoleWpf.pdb
+C:\Users\karl\Desktop\Gestion ecole\GestEcoleWpf\GestEcoleWpf\obj\Debug\GestEcoleWpf.csprojResolveAssemblyReference.cache
+C:\Users\karl\Desktop\Gestion ecole\GestEcoleWpf\GestEcoleWpf\obj\Debug\MainWindow.g.cs
+C:\Users\karl\Desktop\Gestion ecole\GestEcoleWpf\GestEcoleWpf\obj\Debug\App.g.cs
+C:\Users\karl\Desktop\Gestion ecole\GestEcoleWpf\GestEcoleWpf\obj\Debug\GestEcoleWpf_MarkupCompile.cache
+C:\Users\karl\Desktop\Gestion ecole\GestEcoleWpf\GestEcoleWpf\obj\Debug\GestEcoleWpf_MarkupCompile.lref
+C:\Users\karl\Desktop\Gestion ecole\GestEcoleWpf\GestEcoleWpf\obj\Debug\MainWindow.baml
+C:\Users\karl\Desktop\Gestion ecole\GestEcoleWpf\GestEcoleWpf\obj\Debug\GestEcoleWpf.g.resources
+C:\Users\karl\Desktop\Gestion ecole\GestEcoleWpf\GestEcoleWpf\obj\Debug\GestEcoleWpf.Properties.Resources.resources
+C:\Users\karl\Desktop\Gestion ecole\GestEcoleWpf\GestEcoleWpf\obj\Debug\GestEcoleWpf.csproj.GenerateResource.Cache
+C:\Users\karl\Desktop\Gestion ecole\GestEcoleWpf\GestEcoleWpf\obj\Debug\GestEcoleWpf.exe
+C:\Users\karl\Desktop\Gestion ecole\GestEcoleWpf\GestEcoleWpf\obj\Debug\GestEcoleWpf.pdb

@@ -1,0 +1,9 @@
+C:\Users\karl\Desktop\Gestion ecole\GestEcole\GestEcole\bin\Debug\GestEcole.exe.config
+C:\Users\karl\Desktop\Gestion ecole\GestEcole\GestEcole\bin\Debug\GestEcole.exe
+C:\Users\karl\Desktop\Gestion ecole\GestEcole\GestEcole\bin\Debug\GestEcole.pdb
+C:\Users\karl\Desktop\Gestion ecole\GestEcole\GestEcole\obj\Debug\GestEcole.csprojResolveAssemblyReference.cache
+C:\Users\karl\Desktop\Gestion ecole\GestEcole\GestEcole\obj\Debug\GestEcole.Form1.resources
+C:\Users\karl\Desktop\Gestion ecole\GestEcole\GestEcole\obj\Debug\GestEcole.Properties.Resources.resources
+C:\Users\karl\Desktop\Gestion ecole\GestEcole\GestEcole\obj\Debug\GestEcole.csproj.GenerateResource.Cache
+C:\Users\karl\Desktop\Gestion ecole\GestEcole\GestEcole\obj\Debug\GestEcole.exe
+C:\Users\karl\Desktop\Gestion ecole\GestEcole\GestEcole\obj\Debug\GestEcole.pdb
